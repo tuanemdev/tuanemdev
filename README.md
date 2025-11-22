@@ -8,6 +8,6 @@ Contributions and feedback are always welcome to make them better! 🤝
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanemdev&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanemdev&show_icons=true&theme=radical&hide_border=true&title_color=2ecc71)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanemdev&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanemdev&layout=compact&theme=radical&hide_border=true&title_color=2ecc71)
