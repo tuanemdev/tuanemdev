@@ -1,13 +1,9 @@
-# Hello! 👋
+## Hi, I'm Nguyen Tuan Anh (a.k.a Tuan Em)
 
-I'm **Nguyen Tuan Anh**, a mobile developer specializing in iOS.
+I'm an iOS Developer based in Hanoi, Vietnam.
 
-My primary language is **Swift**, and I'm quite interested in **Rust**.
-I also work with other languages when the need arises.
+I build open-source projects for fun, but even as hobbies, they are built to be as polished, complete, and production-ready as possible.
 
-I dedicate a good portion of my personal time to programming —
-building open-source projects based on my own real-world needs,
-or simply out of curiosity and the desire to learn.
-
-I hope some of these projects prove useful to you.
-Contributions and feedback from the community are always welcome!
+Check out my work here:
+* OpenSwiftXO: https://github.com/OpenSwiftXO
+* OpenRustXO: https://github.com/OpenRustXO
